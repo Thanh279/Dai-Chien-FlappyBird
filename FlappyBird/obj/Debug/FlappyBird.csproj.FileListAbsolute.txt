@@ -1,0 +1,14 @@
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\bin\Debug\Properties\flap-101soundboards.mp3
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+D:\LeChiThanh_2122110144\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
